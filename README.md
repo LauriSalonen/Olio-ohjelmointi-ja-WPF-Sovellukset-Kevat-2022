@@ -1,6 +1,6 @@
 # Olio-ohjelmointi-ja-WPF-Sovellukset-Kevät-19
 
-Oma Nimi Tähän
+Lauri Salonen
 
 ## Ohjeet
 
