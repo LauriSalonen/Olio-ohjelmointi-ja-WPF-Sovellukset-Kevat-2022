@@ -11,6 +11,13 @@ namespace ConsoleApp1
         public int ikä;
         public string rotu;
 
+        public Class1(string _nimi, int _ikä, string _rotu)
+        {
+            nimi = _nimi;
+            ikä = _ikä;
+            rotu = _rotu;
+
+        }
 
         public void TulostaData()
         {
