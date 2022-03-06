@@ -1,0 +1,14 @@
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfo.cs
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.exe
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.deps.json
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.json
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.dev.json
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.dll
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.pdb
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.dll
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.pdb
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.genruntimeconfig.cache

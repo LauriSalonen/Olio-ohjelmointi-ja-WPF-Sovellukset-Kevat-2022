@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\olio",
+    "\\olio\\ConsoleApp1\\ConsoleApp1",
+    "\\olio\\ConsoleApp2"
   ],
+  "SelectedNode": "\\olio\\ConsoleApp2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

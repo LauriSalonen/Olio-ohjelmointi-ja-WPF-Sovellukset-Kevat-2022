@@ -1,0 +1,13 @@
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfo.cs
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.exe
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.deps.json
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.json
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.pdb
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.pdb
+C:\Users\lauri.salonen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.genruntimeconfig.cache
